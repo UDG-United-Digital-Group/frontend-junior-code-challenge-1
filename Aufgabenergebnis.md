@@ -2,7 +2,7 @@
 
 ## Eingesetzte Technologien / Frameworks
 
-Folgende Technolgien / Frameworks setze ich in meinem Projekt ein:
+Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
 
 - JavaScript / jQuery
 - PHP / Symfony
@@ -16,7 +16,7 @@ Ich setze in meinem Projekt die folgenden 3rd Party Libraries ein: (falls keine,
 
 Name | Begründung
 --- | ---
-[moment.js](https://momentjs.com/) | Zur Berechnung von Datumswertung und Umwandlung von Formaten.
+[moment.js](https://momentjs.com/) | Zur Berechnung von Datumswerten und Umwandlung von Formaten.
 [Bootstrap](https://getbootstrap.com/) | Einfaches RWD Framework zur Gestaltung des Frontends
 
 ## Installation / Ausführen des Projektes

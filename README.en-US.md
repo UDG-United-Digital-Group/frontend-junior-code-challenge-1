@@ -48,7 +48,7 @@ Keep in mind that you and / or others need to build on this code and expand the 
 When you are finished with the task - or have only completed part of the time, you can provide us with your work result as follows:
 
 1. Provide us with the link to your code repository
-   - If you don't have one yet, you can get one of the leading providers (e.g. [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https : //bitbucket.org/), [AzureDevOps](https://dev.azure.com/), ...) create an account and make your project available there.
+   - If you don't have one yet, you can get one of the leading providers (e.g. [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/), [AzureDevOps](https://dev.azure.com/), ...) create an account and make your project available there.
    - Please make sure that the visibility of the repository is set to "Public"
 
 2. Add a copy of the attached file [Task Result](Task&#32;Result.md) and fill in all points accordingly.
