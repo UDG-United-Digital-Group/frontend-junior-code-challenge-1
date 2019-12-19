@@ -17,7 +17,7 @@ The goal is to implement an application to process and prepare the enclosed CSV 
 
 ## 2. Design
 
-The presentation should be ** structured ** and ** appealing ** for users. Colors and fonts can be chosen freely. The front end should consist of only one page.
+The presentation should be **structured** and **appealing** for users. Colors and fonts can be chosen freely. The front end should consist of only one page.
 
 ## 3. Implementation
 
