@@ -1,6 +1,6 @@
 # Task Result
 
-## Eingesetzte Technologien / Frameworks
+## Used technologies / Frameworks
 
 I use the following technologies / frameworks in my project:
 
